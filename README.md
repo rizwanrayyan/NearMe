@@ -45,9 +45,12 @@ Execute the programs and publish them.
 </body>
 </html>
 ----
+
 ## OUTPUT
+
 ![Alt text](<output 1.jpeg>)
 ![Alt text](image.png)
+
 ## HTML VALIDATOR
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
