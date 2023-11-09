@@ -48,8 +48,10 @@ Execute the programs and publish them.
 
 ## OUTPUT
 
-![Alt text](<output 1.jpeg>)
-![Alt text](image.png)
+![image](https://github.com/rizwanrayyan/NearMe/assets/121215820/527138ff-b9fc-471b-a23c-f53a1d8458aa)
+
+![image](https://github.com/rizwanrayyan/NearMe/assets/121215820/04bfc8ee-fcfa-4f93-87e3-15faf02a2375)
+
 
 ## HTML VALIDATOR
 ## RESULT
